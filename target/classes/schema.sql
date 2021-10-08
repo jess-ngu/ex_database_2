@@ -1,0 +1,1 @@
+CREATE TABLE easy_drinks (drink_name VARCHAR(16), main VARCHAR(20), amount1 double, second VARCHAR(20), amount2 double, directions VARCHAR(250));
